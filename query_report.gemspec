@@ -23,7 +23,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'rmagick'
   s.add_dependency 'gruff'
   s.add_dependency 'kaminari'
-  s.add_dependency 'prawn', '~>1.0.0.rc2'
+  s.add_dependency 'prawn', '~>0.15.0'
 
 
   s.add_development_dependency 'bundler', ['>= 1.0.0']
